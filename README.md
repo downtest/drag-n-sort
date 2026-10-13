@@ -9,12 +9,12 @@ no dependencies required.
 
 ### NPM
 ```bash
-npm install drag-n-sort
+npm install native-drag-n-sort
 ```
 
 ### Yarn
 ```bash
-yarn add drag-n-sort
+yarn add native-drag-n-sort
 ```
 
 # Configuration Options

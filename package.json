@@ -1,5 +1,5 @@
 {
-    "name": "drag-n-sort",
+    "name": "native-drag-n-sort",
     "type": "module",
     "keywords": [
         "sorting",
@@ -7,7 +7,10 @@
     ],
     "homepage": "https://github.com/downtest/drag-n-sort",
     "bugs": "https://github.com/downtest/drag-n-sort/issues",
-    "repository": "https://github.com/downtest/",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/downtest/drag-n-sort.git"
+    },
     "author": "Roman Morozov <ramirez2006@mail.ru>",
     "license": "MIT",
     "version": "1.0.0",
