@@ -1,4 +1,4 @@
-# Draggable-sorting native JS module
+# Drag-n-sort native JS module
 
 A lightweight, high-performance, and configurable drag and drop library built with pure JavaScript,
 no dependencies required.
@@ -9,12 +9,12 @@ no dependencies required.
 
 ### NPM
 ```bash
-npm install drag-drop-module
+npm install drag-n-sort
 ```
 
 ### Yarn
 ```bash
-yarn add drag-drop-module
+yarn add drag-n-sort
 ```
 
 # Configuration Options
@@ -68,9 +68,9 @@ yarn add drag-drop-module
 
 #### JS
 ```js
-    import draggableSorting from './draggable-sorting';
+    import dragNDrop from './drag-n-sort';
 
-    const dragManager = draggableSorting({
+    const dragManager = dragNDrop({
         containerSelector: '.container',
         itemSelector: '.item',
         ghostClass: 'item-ghost',

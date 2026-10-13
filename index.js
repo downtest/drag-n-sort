@@ -1,4 +1,4 @@
-export default function draggableSorting(options = {}) {
+export default function dragNDrop(options = {}) {
     // Конфигурация с вашими параметрами
     const config = {
         containerSelector: '.container',
