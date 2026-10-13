@@ -5,11 +5,11 @@
         "sorting",
         "draggable"
     ],
-    "homepage": "https://github.com/downtest/drag-n-sort",
-    "bugs": "https://github.com/downtest/drag-n-sort/issues",
+    "homepage": "https://github.com/downtest/native-drag-n-sort",
+    "bugs": "https://github.com/downtest/native-drag-n-sort/issues",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/downtest/drag-n-sort.git"
+        "url": "git+https://github.com/downtest/native-drag-n-sort.git"
     },
     "author": "Roman Morozov <ramirez2006@mail.ru>",
     "license": "MIT",
